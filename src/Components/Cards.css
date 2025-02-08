@@ -1,0 +1,31 @@
+.image {
+  height: 250px;
+  width: 250px;
+  margin: 5px;
+}
+
+.productsall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.productcard {
+  width: 260px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px;
+ background-color: azure;
+ color: blue;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,
+  
+  
+}
+.header{
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
